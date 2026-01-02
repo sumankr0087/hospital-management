@@ -174,14 +174,6 @@ This application uses **localStorage** for data persistence:
 - **Medical Records** - Stored in `hospital_records` key
 - **Current User** - Stored in `hospital_currentUser` key
 
-### Dummy Data
-
-The application comes with pre-populated dummy data:
-- **Patients**: 5 sample patients with various medical histories
-- **Doctors**: 6 sample doctors with different specializations
-- **Appointments**: 6 sample appointments with different statuses
-- **Medical Records**: 4 sample medical records with diagnoses and treatments
-
 ## 🔧 Customization
 
 ### Changing Colors
